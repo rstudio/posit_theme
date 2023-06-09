@@ -1,4 +1,4 @@
-# Posit Format
+# Posit Quarto Theme
 
 ## Installing
 
