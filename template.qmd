@@ -12,15 +12,6 @@ This is an example Quarto document that leverages a **Posit Theme.** This theme 
 
 ## Example Content
 
-```{# Posit Colors}
-posit_blue <- "#447099"
-posit_orange <- "#EE6331"
-posit_gray <- "#404041"
-posit_teal <- "#419599"
-posit_green <- "#72994E"
-posit_burgundy <- "#9A4665"
-```
-
 ::: callout-note
 Note
 :::
