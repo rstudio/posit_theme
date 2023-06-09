@@ -1,4 +1,4 @@
-# <%= title %> Format
+# Posit Format
 
 ## Installing
 
