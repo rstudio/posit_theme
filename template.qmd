@@ -1,0 +1,52 @@
+---
+title: "Quarto - Posit Theme"
+format:
+  posit-html: default
+author: Ryan Johnson
+date: last-modified
+---
+
+## Introduction
+
+This is an example Quarto document that leverages a **Posit Theme.** This theme was created by replacing many of the core colors within the preexisting [cosmo](https://github.com/quarto-dev/quarto-cli/blob/main/src/resources/formats/html/bootstrap/themes/cosmo.scss) bootstrap theme.
+
+## Example Content
+
+```{# Posit Colors}
+posit_blue <- "#447099"
+posit_orange <- "#EE6331"
+posit_gray <- "#404041"
+posit_teal <- "#419599"
+posit_green <- "#72994E"
+posit_burgundy <- "#9A4665"
+```
+
+::: callout-note
+Note
+:::
+
+::: callout-warning
+Warning
+:::
+
+::: callout-caution
+Caution
+:::
+
+::: callout-important
+Important
+:::
+
+::: callout-tip
+Tip
+:::
+
+::: panel-tabset
+## Tab 1
+
+Tab 1 Content
+
+## Tab 2
+
+Tab 2 Content
+:::
